@@ -13,8 +13,6 @@ import sys
 os.system('cls')
 
 #declare variables
-
-noofitems = 0
 counter = 0
 
 def progress_spinner(status, cur_pos):
